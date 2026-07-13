@@ -53,7 +53,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabianrg95&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabianrg95&layout=donut-vertical&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fabianrg95&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)](https://github-stats-extended.vercel.app/api?username=fabianrg95&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha)
 </div>
 
 <br/>
